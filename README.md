@@ -17,7 +17,8 @@ This project explores **bike sales trends** using **Excel for data analysis and 
 - 🏷 **Product Category Overview** – **Mountain bikes as top-selling items**  
 
 ## 🖼 **Dashboard Preview**  
-![Bike Sales Dashboard](dashboard_image.png)  
+![image](https://github.com/user-attachments/assets/f6c774d7-1ca0-4b0e-bc7b-26ecd3975019)
+
 
 ## 🎨 **Why This Dashboard Stands Out?**  
 ✅ **Interactive Pivot Tables** – Easy filtering for targeted insights  
